@@ -17,7 +17,7 @@ body,
 html {
   height: 100%;
   font-size: 20px; /* Change the font size*/
-  font-family: "Roboto", sans-serif; /* Change the font */
+  font-family: "Lora", serif; /* Change the font */
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
@@ -29,28 +29,25 @@ h1 {
   letter-spacing: 5px;
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
-  font-family: "Roboto Mono", sans-serif;
+  font-family: "Rowdies", cursive;
   color: #43d6b9ff;
   text-align: center;
-  font-family: 'Rowdies', cursive;
 }
 
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
   font-size: 25px;
-  font-family: "Roboto Mono", sans-serif;
+  font-family: "Recursive", sans-serif;
   color: #43d6b9ff;
   text-align: center;
   line-height: 1.3em;
-  font-family: 'Recursive', sans-serif;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
   color: #43d6b9ff;
   text-decoration: none;
-  font-family: 'Lora', serif;
 }
 
 /************************************************/
@@ -184,7 +181,6 @@ li.nav a:hover {
   min-height: 100%; /* This adjusts the height of the image */
 
   /* TODO: Add the property to create the parallax scrolling effect here */
-  
 }
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
@@ -214,5 +210,4 @@ li.nav a:hover {
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
 
-
-/* TODO: Add additional breakpoints based on your website's design
+/* TODO: Add additional breakpoints based on your website's design*/
