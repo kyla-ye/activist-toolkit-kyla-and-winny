@@ -20,7 +20,7 @@ html {
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
-  background-color: #0D38D3; /* Change the background color */
+  background-color: #98c9a3; /* Change the background color */
   box-sizing: border-box;
 }
 
@@ -91,7 +91,7 @@ li.nav a {
 
 li.nav a:hover {
   /* Styling for the <a> elements when the mouse is hovering in <li class="nav"> */
-  background-color: #0D38D3;
+  background-color: #bc4749;
   color: #43d6b9ff;
 }
 
