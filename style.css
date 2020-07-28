@@ -32,6 +32,7 @@ h1 {
   font-family: "Roboto Mono", sans-serif;
   color: #43d6b9ff;
   text-align: center;
+  font-family: 'Rowdies', cursive;
 }
 
 /*TODO: Change the font-family property to your linked font*/
@@ -42,12 +43,14 @@ h2 {
   color: #43d6b9ff;
   text-align: center;
   line-height: 1.3em;
+  font-family: 'Recursive', sans-serif;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
   color: #43d6b9ff;
   text-decoration: none;
+  font-family: 'Lora', serif;
 }
 
 /************************************************/
@@ -186,12 +189,12 @@ li.nav a:hover {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fkitten.jpg?v=1589124083210");
+  background-image: url("https://environmentvictoria.org.au/wp-content/uploads/2018/07/Plastic-waste.jpg");
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  background-image: url("https://cdn.glitch.com/eb615d20-f1f4-4443-bd45-85e1d5bde77b%2Fpuppy.jpg?v=1589146535603");
+  background-image: url("https://www.condorferries.co.uk/remote.axd/condorlivemedia.azureedge.net/media/11088/plastic-in-the-ocean.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=1080&amp;rnd=132215866990000000");
 }
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
