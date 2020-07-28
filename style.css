@@ -215,6 +215,9 @@ li.nav a:hover {
 .image-one {
   background-image: url("https://www.condorferries.co.uk/remote.axd/condorlivemedia.azureedge.net/media/11088/plastic-in-the-ocean.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=1080&amp;rnd=132215866990000000");
 }
+.image-two{
+  background-image: url("https://wi-images.condecdn.net/image/ENRNQa5Zgkn/crop/3240/f/gettyimages-625667906.jpg");
+}
 
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
