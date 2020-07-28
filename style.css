@@ -201,7 +201,8 @@ li.un a {
 /* TODO: Add the CSS selector for each image to the collective image rule set */
 
 .main-message,
-.image-one {
+.image-one,
+.image-two{
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
