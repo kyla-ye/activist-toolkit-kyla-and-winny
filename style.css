@@ -35,10 +35,10 @@ h1 {
 /*TODO: Change the font-family property to your linked font*/
 h2 {
   letter-spacing: 3px;
-  font-size: 25px;
-  color: #43d6b9ff;
+  font-size: 45px;
+  color: #dde7c7;
   text-align: center;
-  line-height: 1.3em;
+  line-height: 0.5em;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
@@ -79,12 +79,12 @@ li.nav {
 li.nav a {
   /* Styling for the <a> elements in <li class="nav"> */
   display: block;
-  color: #0D38D3;
+  color: #e9c46a;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   text-transform: uppercase;
-  font-weight: bold;
+  font-family: "Marker Felt";
 }
 
 /* TODO (optional): Change the background color and/or font color when the mouse hovers over an item */
@@ -95,6 +95,12 @@ li.nav a:hover {
   color: #43d6b9ff;
 }
 
+li.un {
+  list-style-type: none;
+}
+li.un a {
+  color: #dde7c7;
+}
 /************************************************/
 /*********** CSS FOR FLEXBOX HEADING ************/
 /************************************************/
@@ -215,7 +221,7 @@ li.nav a:hover {
 .image-one {
   background-image: url("https://www.condorferries.co.uk/remote.axd/condorlivemedia.azureedge.net/media/11088/plastic-in-the-ocean.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=1080&amp;rnd=132215866990000000");
 }
-.image-two{
+.image-two {
   background-image: url("https://cdn.glitch.com/50ef2729-e6f3-404b-b1b2-845f6da08b30%2Fthumbnails%2FIMG_2885.JPG?1595952888680");
 }
 
