@@ -134,8 +134,8 @@ li.nav a:hover {
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
-.title{
-  font-family: 'Rowdies', cursive;
+.title {
+  font-family: "Rowdies", cursive;
   padding: 13%;
   color: #bc4749;
   font-size: 150px;
@@ -155,24 +155,22 @@ li.nav a:hover {
   line-height: 1.4em; /* Adds space between lines */
   text-align: center;
   font-family: "Lora", serif;
-  
+
   .term {
     background-color: #0D38D3;
-  padding: 20px 45px;
-  margin: 35px;
-  text-align: center;
-    font-family: 'Raleway', sans-serif;
+    padding: 20px 45px;
+    margin: 35px;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
   }
   .def {
     background-color: #0D38D3;
-  padding: 20px 45px;
-  margin: 35px;
-  text-align: center;
-    font-family: 'Varta', sans-serif;
+    padding: 20px 45px;
+    margin: 45px;
+    text-align: center;
+    font-family: "Varta", sans-serif;
   }
 
-  
-  
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
