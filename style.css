@@ -37,14 +37,9 @@ h1 {
 h2 {
   letter-spacing: 3px;
   font-size: 25px;
-  font-family: "Recursive", sans-serif;
   color: #43d6b9ff;
   text-align: center;
   line-height: 1.3em;
-}
-
-p {
-  font-family: "Lora", serif;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
@@ -129,7 +124,7 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
-  font-family: "Marker Felt";
+  font-family: "Recursive", sans-serif;
   padding: 2%;
   color: #43d6b9ff;
   font-size: 50px;
@@ -140,7 +135,8 @@ li.nav a:hover {
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
-.title{
+.title{font-family: "Marker Felt";
+  
   
 }
 
@@ -154,6 +150,11 @@ li.nav a:hover {
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
   text-align: center;
+  font-family: "Lora", serif;
+  
+  .term {
+    font-family: 'Raleway', sans-serif;
+  }
 
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
