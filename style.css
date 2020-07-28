@@ -28,7 +28,6 @@ h1 {
   letter-spacing: 5px;
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
-  font-family: "Rowdies", cursive;
   color: #6A994E;
   text-align: center;
 }
@@ -163,6 +162,13 @@ li.nav a:hover {
   margin: 35px;
   text-align: center;
     font-family: 'Raleway', sans-serif;
+  }
+  .def {
+    background-color: #0D38D3;
+  padding: 20px 45px;
+  margin: 35px;
+  text-align: center;
+    font-family: 'Varta', sans-serif;
   }
 
   
