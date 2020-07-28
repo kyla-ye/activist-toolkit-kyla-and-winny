@@ -29,7 +29,7 @@ h1 {
   font-size: 50px;
   /*TODO: Change the font-family property to your linked font*/
   font-family: "Rowdies", cursive;
-  color: #43d6b9ff;
+  color: #6A994E;
   text-align: center;
 }
 
@@ -136,8 +136,13 @@ li.nav a:hover {
   /*border-style: dotted;*/
 }
 .title{font-family: "Marker Felt";
-  
-  
+  font-family: 'Rowdies', cursive;
+  padding: 13%;
+  color: #43d6b9ff;
+  font-size: 100px;
+  letter-spacing: 7px;
+  line-height: 60px;
+  text-align: center;
 }
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
