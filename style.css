@@ -17,7 +17,6 @@ body,
 html {
   height: 100%;
   font-size: 20px; /* Change the font size*/
-  font-family: "Lora", serif; /* Change the font */
   line-height: 1.5em; /* Change the line height size*/
   margin: 0em;
   color: white; /* Change the font color*/
@@ -42,6 +41,10 @@ h2 {
   color: #43d6b9ff;
   text-align: center;
   line-height: 1.3em;
+}
+
+p {
+  font-family: "Lora", serif;
 }
 
 /*TODO: Change the color of a link when a person hovers over it*/
@@ -126,6 +129,7 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the heading (the left box) */
 .heading-home {
+  font-family: "Marker Felt";
   padding: 2%;
   color: #43d6b9ff;
   font-size: 50px;
@@ -135,6 +139,9 @@ li.nav a:hover {
 
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
+}
+.title{
+  
 }
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
