@@ -141,13 +141,15 @@ li.un a {
   /*border-style: dotted;*/
 }
 .title {
-  font-family: "Rowdies", cursive;
+  font-family: "OCR A Std, monospace",;
   padding: 13%;
-  color: #bc4749;
-  font-size: 150px;
-  letter-spacing: 10px;
-  line-height: 60px;
+  color: #A53B3D;
+  font-size: 130px;
+  letter-spacing: 5px;
+  line-height: 10px;
   text-align: center;
+  text-transform: uppercase;
+  text-shadow: 0 0 3px #FF0000;
 }
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
@@ -190,7 +192,7 @@ li.un a {
 /* TODO (optional): Change the background color and/or text alignment */
 
 .text-section {
-  background-color: #0D38D3;
+  background-color: #264653;
   padding: 20px 45px;
   margin: 35px;
   text-align: center;
