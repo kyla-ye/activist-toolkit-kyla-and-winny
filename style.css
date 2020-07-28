@@ -223,9 +223,11 @@ li.un a {
   background-image: url("https://www.condorferries.co.uk/remote.axd/condorlivemedia.azureedge.net/media/11088/plastic-in-the-ocean.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=1080&amp;rnd=132215866990000000");
 }
 .image-two {
-  background-image: url("https://cdn.glitch.com/50ef2729-e6f3-404b-b1b2-845f6da08b30%2Fthumbnails%2FIMG_2885.JPG?1595952888680");
+  background-image: url("https://wi-images.condecdn.net/image/ENRNQa5Zgkn/crop/3240/f/gettyimages-625667906.jpg");
 }
-
+.image-three {
+  background-image: url("https://66.media.tumblr.com/4dfe5e825b39fc247bb62577eb0ef4a0/tumblr_pqxuf7FSc91t64oyu_1280.jpg");
+}
 /* TODO: Add a second background image. Make sure you add this class selector to the collective image rule set above */
 
 /* TODO: Add more background images by repeating the process above */
