@@ -62,9 +62,9 @@ ul.nav-bar {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #43d6b9ff;
+  background-color: #98C9A3;
   border-style: solid;
-  border-color: #0D38D3;
+  border-color: #386641;
 }
 
 /* TODO (optional): Change the font size*/
@@ -109,7 +109,7 @@ li.nav a:hover {
   align-items: center; /* Align the flex items to the center */
 
   /* Design properties */
-  background-color: #0D38D3;
+  background-color: #F2E8CF;
   padding: 5px;
 
   /* Positioning properties */
@@ -126,7 +126,7 @@ li.nav a:hover {
 .heading-home {
   font-family: "Recursive", sans-serif;
   padding: 2%;
-  color: #43d6b9ff;
+  color: #6A994E;
   font-size: 50px;
   letter-spacing: 10px;
   line-height: 60px;
@@ -135,10 +135,10 @@ li.nav a:hover {
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
-.title{font-family: "Marker Felt";
+.title{
   font-family: 'Rowdies', cursive;
   padding: 13%;
-  color: #43d6b9ff;
+  color: #bc4749;
   font-size: 100px;
   letter-spacing: 7px;
   line-height: 60px;
@@ -147,10 +147,10 @@ li.nav a:hover {
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
 .intro-text {
-  background-color: #43d6b9ff; /* Add your own background color */
+  background-color: #2d6a4f; /* Add your own background color */
   padding: 4%;
   margin: 3%;
-  color: #0D38D3; /* Add the color of your font */
+  color: #6A994E; /* Add the color of your font */
   font-size: 20px; /* Add your font size*/
   letter-spacing: 2px; /* Adds space between letters */
   line-height: 1.4em; /* Adds space between lines */
