@@ -199,7 +199,6 @@ li.un a {
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
 
 /* TODO: Add the CSS selector for each image to the collective image rule set */
-
 .main-message,
 .image-one,
 .image-two,
@@ -217,12 +216,12 @@ li.un a {
 
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
-  background-image: url("https://705628.smushcdn.com/1146977/wp-content/uploads/2018/03/landfill_800.jpg?lossy=1&strip=1&webp=1");
+  background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutterstock_448263469_1_2048x2048.jpg?v=1479498474");
 }
 
 /* TODO: Replace the current image URL with your own */
 .image-one {
-  backgroun-image: url("https://static.scientificamerican.com/sciam/cache/file/EE90333A-4DDC-44DE-A6B705A80948DED4_source.jpg?w=1220&h=490");
+  background-image: url("https://www.technogym.com/wpress/wp-content/uploads/2019/06/Small-Giardino-Verticale.jpg");
 }
 .image-two {
   background-image: url("https://www.condorferries.co.uk/remote.axd/condorlivemedia.azureedge.net/media/11088/plastic-in-the-ocean.jpg?anchor=center&amp;mode=crop&amp;width=1920&amp;height=1080&amp;rnd=132215866990000000");
