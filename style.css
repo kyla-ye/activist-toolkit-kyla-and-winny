@@ -166,21 +166,6 @@ li.un a {
   text-align: center;
   font-family: "Lora", serif;
 
-  .term {
-    background-color: #0D38D3;
-    padding: 20px 45px;
-    margin: 35px;
-    text-align: center;
-    font-family: "Raleway", sans-serif;
-  }
-  .def {
-    background-color: #0D38D3;
-    padding: 20px 45px;
-    margin: 35px;
-    text-align: center;
-    font-family: "Varta", sans-serif;
-  }
-
   /*Debugging Tip: Uncomment the line below to see the outline of the container*/
   /*border-style: dotted;*/
 }
