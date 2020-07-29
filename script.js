@@ -3,11 +3,10 @@
 /************************************************/
 
 /* TODO: Add a variable to store the "my-list" element */
-
-var myId=document.getElementById("myId");
+var fullItemList=document.getElementById("my-list");
 
 /* TODO: Create the event listener that listens for a mouse click and runs the checkOffList function */
-myId.addEventListener("click", )
+fullItemList.addEventListener("click", )
 
 /* TODO: Declare the function checkOffList and add actions inside the { } */
 
