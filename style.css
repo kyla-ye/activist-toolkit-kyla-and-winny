@@ -236,6 +236,7 @@ li.un a {
 /******************************************************/
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
+@media all and ()
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
 
