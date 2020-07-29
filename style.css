@@ -141,7 +141,7 @@ li.un a {
   /*border-style: dotted;*/
 }
 .title {
-  font-family: "Luckiest Guy",;
+  font-family: "Luckiest Guy";
   padding: 13%;
   color: #ffb627;
   font-size: 130px;
@@ -149,9 +149,8 @@ li.un a {
   line-height: 10px;
   text-align: center;
   text-transform: uppercase;
- font-smoothing: antialiased;
-  text-shadow:0 8px black;
-
+  font-smoothing: antialiased;
+  text-shadow: 0 8px black;
 }
 
 /* TODO: Review the CSS properties to the flex item for the intro text (the right box) */
@@ -173,7 +172,6 @@ li.un a {
 /************************************************/
 /*************** PARALLAX SCROLL ****************/
 /************************************************/
-background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutterstock_448263469_1_2048x2048.jpg?v=1479498474");
 
 /*-----------TEXT SECTIONS-----------*/
 
@@ -184,12 +182,12 @@ background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutter
   padding: 20px 45px;
   margin: 35px;
   text-align: center;
-  
 }
 
 /*---------IMAGE STYLING + PARALLAX PROPERTY---------*/
 
 /* TODO: Add the CSS selector for each image to the collective image rule set */
+
 .main-message,
 .image-one,
 .image-two,
@@ -200,11 +198,12 @@ background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutter
   background-repeat: no-repeat;
   background-color: #43d6b9ff;
   background-size: cover;
-  min-height: 100%; /* This adjusts the height of the image */
+  min-height: 100%;/* This adjusts the height of the image */
 
-  /* TODO: Add the property to create the parallax scrolling effect here */
+  
+/* TODO: Add the property to create the parallax scrolling effect here */
+background-attachment: fixed;
 }
-
 /* TODO: Replace the current image URL with your own. This is the top image on your homepage. */
 .main-message {
   background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutterstock_448263469_1_2048x2048.jpg?v=1479498474");
@@ -238,11 +237,11 @@ background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutter
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
 @media only screen and (max-width: 700px) {
-  .flex-container:
-  flex-wrap:wrap;
-  top: 20%
+  .flex-container: flex-wrap: wrap;
+  top: 20%;
 }
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
 
+/* CSS rule sets */
 /* TODO: Add additional breakpoints based on your website's design*/
