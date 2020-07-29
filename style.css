@@ -173,6 +173,7 @@ li.un a {
 /************************************************/
 /*************** PARALLAX SCROLL ****************/
 /************************************************/
+background-image: url("https://cdn.shopify.com/s/files/1/0078/1032/files/shutterstock_448263469_1_2048x2048.jpg?v=1479498474");
 
 /*-----------TEXT SECTIONS-----------*/
 
@@ -236,7 +237,11 @@ li.un a {
 /******************************************************/
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
-@media all and ()
+@media only screen and (max-width: 700px) {
+  .flex-container:
+  flex-wrap:wrap;
+  top: 20%
+}
 
 /* TODO: Add a breakpoint if the screen is 700px or less */
 
