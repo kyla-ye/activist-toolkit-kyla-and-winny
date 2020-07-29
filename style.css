@@ -236,12 +236,11 @@ background-attachment: fixed;
 /******************************************************/
 /***** CHANGE INDEX.HTML CSS BASED ON SCREEN SIZE *****/
 /******************************************************/
+
+/* TODO: Add a breakpoint if the screen is 700px or less */
 @media only screen and (max-width: 700px) {
   .flex-container: flex-wrap: wrap;
   top: 20%;
 }
-
-/* TODO: Add a breakpoint if the screen is 700px or less */
-
 /* CSS rule sets */
 /* TODO: Add additional breakpoints based on your website's design*/
