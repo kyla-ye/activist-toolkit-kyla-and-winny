@@ -10,5 +10,7 @@ if (fullItemList) {
   fullItemList.addEventListener("click", checkOffItem);
 }
 /* TODO: Declare the function checkOffList and add actions inside the { } */
-
+function checkOffItem(clicked) {
+  
+}
 
