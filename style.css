@@ -71,7 +71,7 @@ ul.nav-bar {
 li.nav {
   /* Styling for the <li class="nav"> element */
   font-size: 30px;
-  float: center;
+  float: right;
 }
 
 /* TODO (optional): Change the font color, decoration, and/or case */
