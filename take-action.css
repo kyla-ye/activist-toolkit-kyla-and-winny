@@ -41,9 +41,9 @@ h2 {
   font-family: "Marker Felt", fantasy;
   color: #023E8A;
 }
-#info{
-  padding-top:12px;
-  color:#E6EAAE;
+#info {
+  padding-top: 12px;
+  color: #E6EAAE;
   font-size: 30px;
   fonr-family: "American Typewriter", serif;
   letter-spacing: 1px;
@@ -93,9 +93,9 @@ h2 {
 
 /* Right box under title; item in .flex-container */
 .action-list-container {
-  width: 60%;
+  width: 70%;
   padding: 25px;
-  margin: 5%;
+  margin: 3%;
   flex-grow: 1;
 
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
@@ -122,7 +122,8 @@ h2 {
 
 /* Intructions inside the list container */
 #instructions {
-  font: 14px "Roboto", sans-serif;
+  font: 20px ;
+  font-family:"Roboto", sans-serif;
   text-align: center;
   font-style: italic;
   color: #C18C5D;
@@ -131,9 +132,12 @@ h2 {
 
 /* The div container for the unordered action item list */
 #my-list {
+  padding-top: 8px;
   padding: 10px 0 0 0;
   margin: 0;
-  font-size: 10pt;
+  font-size: 15pt;
+  font-family: "FreeMono", monospaceasy;
+  color: #007F5F;
 }
 
 /* Styling for individual action list items */
@@ -147,7 +151,7 @@ h2 {
   list-style-type: none;
   transition: 0.2s;
   width: 85%;
-  color: black;
+  color: #2B9348;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
