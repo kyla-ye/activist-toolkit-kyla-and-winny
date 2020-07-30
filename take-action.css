@@ -31,14 +31,18 @@ h1 {
 h2 {
   font-size: 35px;
   text-align: center;
-  font-family: "Chalkduster", fantasy;
-  color: #284B63;
 }
 #slogan {
   font-size: 35px;
+  margin-top: -5%;
+  margin-right: 5%;
+  margin-left: 0;
   text-align: center;
   font-family: "Chalkduster", fantasy;
   color: #284B63;
+}
+#info{
+  
 }
 
 /******************************************************/
@@ -73,7 +77,7 @@ h2 {
   margin-left: 0;
   margin-top: 5%;
   margin-bottom: 5%;
-  padding: 35px;
+  padding: 30px;
   font-size: 16px;
   flex-grow: 2;
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
