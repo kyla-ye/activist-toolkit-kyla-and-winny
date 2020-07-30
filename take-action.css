@@ -4,11 +4,16 @@
 
 .page-header-action {
   width: 100%;
-  position: absolute;
+  position: absolute; 
   text-transform: uppercase;
   background-color: #EFD6AC;
+  background-image:
 }
 
+h2 {
+  font-size: 25px;
+  text-align: left;
+}
 
 /******************************************************/
 /***************** ACTION ITEM LIST *******************/
@@ -45,6 +50,7 @@
   padding: 35px;
   font-size: 16px;
   flex-grow: 2;
+  
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
@@ -54,7 +60,7 @@
 
 /* Right box under title; item in .flex-container */
 .action-list-container {
-  width: 75%;
+  width: 35%;
   padding: 35px;
   margin: 5%;
   flex-grow: 1;
