@@ -18,16 +18,27 @@
 }
 
 h1 {
-  padding: 0.5%;
+  padding: 5px;
   font-family: "Chalkduster", fantasy;
   font-size: 100px;
   color: #C44900;
   background-image: url("https://previews.123rf.com/images/kajlacar/kajlacar1703/kajlacar170300171/73273171-painting-closeup-texture-plain-light-color-background-for-vivid-colorful-creative-backgrounds-oil-on.jpg");
   background-size: cover;
+  position: absolute;
+  left: 20%;
+  right: 20%;
 }
 h2 {
-  font-size: 25px;
+  font-size: 35px;
   text-align: center;
+  font-family: "Chalkduster", fantasy;
+  color: #284B63;
+}
+#slogan {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Chalkduster", fantasy;
+  color: #284B63;
 }
 
 /******************************************************/
