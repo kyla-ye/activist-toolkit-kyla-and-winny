@@ -70,8 +70,8 @@ ul.nav-bar {
 
 li.nav {
   /* Styling for the <li class="nav"> element */
-  float: right;
   font-size: 30px;
+  float: right;
 }
 
 /* TODO (optional): Change the font color, decoration, and/or case */
@@ -141,7 +141,7 @@ li.un a {
   /*border-style: dotted;*/
 }
 .title {
-  font-family: 'Krona One', sans-serif;
+  font-family: "Krona One", sans-serif;
   padding: 13%;
   color: #ffb627;
   font-size: 100px;
