@@ -11,7 +11,7 @@
   position: relative;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: #43d6b9ff;
+  background-color: #DDE392;
   background-size: cover;
   min-height: 100%;
   padding-top: 10px;
@@ -84,7 +84,7 @@ h2 {
 
 /* Holds all elements related to the action item list; inside the action-list-container */
 #checklist {
-  background-color: white;
+  background-color: #6A994E;
   border-radius: 15px;
   padding-top: 5px;
   padding-bottom: 15px;
