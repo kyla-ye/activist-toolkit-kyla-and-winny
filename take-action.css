@@ -13,7 +13,7 @@
   background-repeat: no-repeat;
   background-color: #DDE392;
   background-size: cover;
-  min-height: 100%;
+  min-height: 85%;
   padding-top: 10px;
 }
 
@@ -42,12 +42,14 @@ h2 {
   color: #023E8A;
 }
 #info {
-  padding-top: 12px;
-  color: #E6EAAE;
+  padding-top: 5px;
+  color: #FFF3B0;
   font-size: 30px;
   fonr-family: "American Typewriter", serif;
   letter-spacing: 1px;
 }
+#p2{font-weight: bold;
+color:#9E2A2B}
 
 /******************************************************/
 /***************** ACTION ITEM LIST *******************/
@@ -64,7 +66,7 @@ h2 {
   left: 5%;
   right: 5%;
 
-  margin: 5% 0;
+  margin: 2% 0;
   width: 90%;
 
   flex-direction: row;
