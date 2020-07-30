@@ -39,7 +39,7 @@ h2 {
   display: flex;
 
   position: absolute;
-  padding: 0.5em 0;
+  padding: 1em 3;
   align-items: center;
 
   left: 5%;
@@ -74,11 +74,11 @@ h2 {
 
 /* Right box under title; item in .flex-container */
 .action-list-container {
-  width: 35%;
-  padding: 35px;
+  width: 60%;
+  padding: 25px;
   margin: 5%;
   flex-grow: 1;
-  background-color: #F2E8CF;
+
   /*border-style: dotted;*/ /*Uncomment to see the outline of the container*/
 }
 
