@@ -20,9 +20,10 @@
 h1 {
   padding: 0.5%;
   font-family: "Chalkduster", fantasy;
-  font-weight: bold;
-  
-  color:;
+  font-size: 100px;
+  color: #C44900;
+  background-image: url("https://previews.123rf.com/images/kajlacar/kajlacar1703/kajlacar170300171/73273171-painting-closeup-texture-plain-light-color-background-for-vivid-colorful-creative-backgrounds-oil-on.jpg");
+  background-size: cover;
 }
 h2 {
   font-size: 25px;
