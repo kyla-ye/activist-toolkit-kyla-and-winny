@@ -244,10 +244,11 @@ li.un a {
 /* CSS rule sets */
 /* TODO: Add additional breakpoints based on your website's design*/
 h3{
-  padding: 5px;
-  font-family: "Chalkduster", fantasy;
+  padding: 0px;
+  font-family:  "Bellota", cursive;
   font-size: 100px;
-  color: #C44900;
+  color: #F2D0A9;
+  text-align: center;
  
   
 }
