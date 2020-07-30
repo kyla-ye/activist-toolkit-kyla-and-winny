@@ -244,11 +244,13 @@ li.un a {
 /* CSS rule sets */
 /* TODO: Add additional breakpoints based on your website's design*/
 h3{
-  padding: 0px;
-  font-family:  "Bellota", cursive;
+  padding-top: -1px;
+  margin-top: 3%;
+  font-family:  "Gill Sans", sans-serif;
   font-size: 100px;
-  color: #F2D0A9;
+  color: #124E78;
   text-align: center;
+  text-transform: uppercase;
  
   
 }
