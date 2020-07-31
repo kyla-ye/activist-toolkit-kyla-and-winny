@@ -42,12 +42,20 @@ h2 {
 }
 
 p {
-text-align: center}
+text-align: center;
+  
+}
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
   color: #43d6b9ff;
   text-decoration: none;
 }
+
+li.resource-link {
+  text-align: center;
+  color: #5C4D89;
+}
+
 
 /************************************************/
 /*************** CSS FOR NAV BAR ****************/
