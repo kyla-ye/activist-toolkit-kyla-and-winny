@@ -65,6 +65,8 @@ list-style-type: square;
 /***************** ACTION ITEM LIST *******************/
 /******************************************************/
 
+/* Shoutout to Nicole for helping us fix the layout of our Take Action page!
+
 /* Flexbox container that holds all flex items */
 .flex-container-action {
   display: flex;
