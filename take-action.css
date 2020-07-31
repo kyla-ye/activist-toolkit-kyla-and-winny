@@ -48,17 +48,18 @@ h2 {
   fonr-family: "American Typewriter", serif;
   letter-spacing: 1px;
 }
-.p2{font-weight: bold;
+.p2 {
+  font-weight: bold;
   font-size: 20px;
-color:#9E2A2B;
-list-style-type: square;
+  color: #9E2A2B;
+  list-style-type: square;
 }
 
-#note{padding-top: 30px;
+#note {
+  padding-top: 30px;
   font-size: 45px;
   font-family: "American Typewriter", serif;
-  color:#EBEBD3;
-
+  color: #EBEBD3;
 }
 
 /******************************************************/
@@ -136,8 +137,8 @@ list-style-type: square;
 
 /* Intructions inside the list container */
 #instructions {
-  font: 20px ;
-  font-family:"Roboto", sans-serif;
+  font: 20px;
+  font-family: "Roboto", sans-serif;
   text-align: center;
   font-style: italic;
   color: #C18C5D;

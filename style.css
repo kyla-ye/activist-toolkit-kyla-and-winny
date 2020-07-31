@@ -42,8 +42,9 @@ h2 {
 }
 
 p {
-text-align: center;
+  text-align: center;
 }
+
 /*TODO: Change the color of a link when a person hovers over it*/
 p a {
   color: #43d6b9ff;
@@ -256,14 +257,12 @@ li.un a {
 }
 /* CSS rule sets */
 /* TODO: Add additional breakpoints based on your website's design*/
-h3{
+h3 {
   padding-top: -1px;
   margin-top: 3%;
-  font-family:  "Gill Sans", sans-serif;
+  font-family: "Gill Sans", sans-serif;
   font-size: 100px;
   color: #124E78;
   text-align: center;
   text-transform: uppercase;
- 
-  
 }

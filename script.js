@@ -3,7 +3,7 @@
 /************************************************/
 
 /* TODO: Add a variable to store the "my-list" element */
-var fullItemList=document.getElementById("my-list");
+var fullItemList = document.getElementById("my-list");
 
 /* TODO: Create the event listener that listens for a mouse click and runs the checkOffList function */
 if (fullItemList) {
@@ -15,4 +15,3 @@ function checkOffItem(clicked) {
     clicked.target.classList.toggle("all-done");
   }
 }
-
